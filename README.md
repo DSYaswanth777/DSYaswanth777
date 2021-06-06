@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dsyaswanth777@gmail.com,
+- 📫 How to reach me ... dsyaswanth777@gmail.com,linkedin.com/in/d-srinivasa-yaswanth-7a752619b
 Currently i am a CSE student at Parul university
 <!---
 DSYaswanth777/DSYaswanth777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
