@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srinivasa Yaswanth Dasari
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Tech 
 - 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ,
