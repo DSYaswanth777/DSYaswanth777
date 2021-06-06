@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Tech 
 - 🌱 I’m currently learning ...Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
+- ⚡ Fun fact: “First, solve the problem. Then, write the code.”
 - 📫 How to reach me ... ,
 - 📧 -dsyaswanth777@gmail.com
 - LinkedIn :- https://www.linkedin.com/in/d-srinivasa-yaswanth-7a752619b/
