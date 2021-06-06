@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srinivasa Yaswanth Dasari
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...Full Stack Web Development
+- 🌱 I’m currently learning ...Full Stack Web Development
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dsyaswanth777@gmail.com
 
 <!---
