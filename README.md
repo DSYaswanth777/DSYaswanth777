@@ -10,4 +10,3 @@
 DSYaswanth777/DSYaswanth777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Currently i am a CSE student at Parul university
