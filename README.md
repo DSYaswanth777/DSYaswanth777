@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dasari_yaswanthh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dasari-srinivasa-yaswanth-7a752619b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dasari_yaswanthh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasari-srinivasa-yaswanth-7a752619b/) 
 
 ## 🖥️ My Portfolio: [![Portfolio](https://img.shields.io/badge/My_Portfolio-%231DA1F2.svg?style=for-the-badge&logo=About.me&logoColor=white)](<https://www.yaswanthdasari.in/>)
 
